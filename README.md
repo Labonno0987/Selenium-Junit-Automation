@@ -26,7 +26,7 @@ In this project, I used Selenium WebDriver with JUnit to automate two webforms: 
 - [Click here to view the how Data Scrapind and Storing from DSE website Work](https://drive.google.com/file/d/1XLqChcpnwGcYZef_u2Jl1tZQRJfLqtC3/view?usp=drive_link)
   
 ## HTML Reports for each Automation
-### For Practice Webform for Learners Webform:
+### For Practice Webform for Learners:
   ![Test1](https://github.com/user-attachments/assets/44545cff-5b0f-4a46-b08b-86f5e7e95ff3)
 
 ### For Guest Registration Webform:
