@@ -19,18 +19,21 @@ In this project, I used Selenium WebDriver with JUnit to automate two webforms: 
 - Configure Gradle in Intellij IDEA
 - Use selenium as automation tool
 - Use Junit as framework
+
+## System Walkthrough Video
+- [Click here to view the how the Practice Webform for Learners Work](https://drive.google.com/file/d/1o8d0T0oCQvYmUN0SAigw7PqZTuHaYTab/view?usp=drive_link)
+- [Click here to view the how the Guest Registration Webform Work](https://drive.google.com/file/d/1_YpepGx1GMZLQDVo3S9drVJjIb_-3FM9/view?usp=sharing)
+- [Click here to view the how Data Scrapind and Storing from DSE website Work](https://drive.google.com/file/d/1XLqChcpnwGcYZef_u2Jl1tZQRJfLqtC3/view?usp=drive_link)
   
 ## HTML Reports for each Automation
 ### For Practice Webform for Learners Webform:
-   - ![Test1](https://github.com/user-attachments/assets/44545cff-5b0f-4a46-b08b-86f5e7e95ff3)
+  ![Test1](https://github.com/user-attachments/assets/44545cff-5b0f-4a46-b08b-86f5e7e95ff3)
 
 ### For Guest Registration Webform:
-   - ![Test2](https://github.com/user-attachments/assets/4163aebf-a8d4-49bd-a13e-d45874ebee12)
+ ![Test2](https://github.com/user-attachments/assets/4163aebf-a8d4-49bd-a13e-d45874ebee12)
 
 ### For Data Scrapind and Storing:
-   - (![Test3](https://github.com/user-attachments/assets/4094e5ab-987d-4c1f-b7af-f406d4b6d887)
+  ![Test3](https://github.com/user-attachments/assets/4094e5ab-987d-4c1f-b7af-f406d4b6d887)
 
-## System Walkthrough Video
-- [Click here to view the how the Project Work](https://drive.google.com/file/d/1Io6PN0K8CPS-DRB4wxIq2PAlqYqF4qDT/view?usp=drive_link)
 
        
